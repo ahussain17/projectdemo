@@ -1,0 +1,20 @@
+
+{
+    "url": "https://qa-practical.qa.swimlane.io/login",
+    "username": "ashraf.hussain",
+    "inv_username": "ashraf.invalid",
+    "password": "5pX6BN99Zx4XCt",
+    "inv_password": "12x45678y",
+    "first_name": "Ashraf",
+    "last_name": "Hussain",
+    "st_address": "Spoon Ave",
+    "city": "Madison Heights",
+    "state": "Michigan",
+    "phone": "3133149991",
+    "zip": "48071",
+    "email": "ashhussa0809@gmail.com",
+    "inv_phone": "abcd123456",
+    "inv_zip": "abcde",
+    "inv_mail1": "ashraf.com",
+    "inv_mail2": "ashraf@xyz"
+}

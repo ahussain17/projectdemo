@@ -1,0 +1,56 @@
+{
+    "$type": "Core.Models.Record.Record, Core",
+    "allowed": [],
+    "trackingId": 0,
+    "applicationId": "aF5sqnNFCc36kO9_J",
+    "referencedRecordIds": [],
+    "referencedByIds": [],
+    "isNew": true,
+    "values": {
+        "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Object, System.Private.CoreLib]], System.Private.CoreLib",
+        "aFjm80LnbJf780V6p": "Madison",
+        "aGgc3qp6gt3dDR_na": "",
+        "aG_YiSItNjs7vGALq": "",
+        "aHdR_gHQmRT8ItVTL": "ASHRAF",
+        "aHxOeHmCTIGd_hg1b": "HUSSAIN",
+        "aIaHwVkkr_seOK096": "",
+        "aJDBDjjIFiTemxLGc": "",
+        "aJX7sLD3xZH9TlVps": "",
+        "aJr4VxhqeQ4fAZgO7": "",
+        "5fed3a0c7571db02a9226400": 41
+    },
+    "repeatFieldCurrentValues": {
+        "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Object, System.Private.CoreLib]], System.Private.CoreLib"
+    },
+    "actionsExecuted": {
+        "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Object, System.Private.CoreLib]], System.Private.CoreLib"
+    },
+    "visualizations": {
+        "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Collections.Generic.List`1[[Core.Models.Record.VisualizationData, Core]], System.Private.CoreLib]], System.Private.CoreLib"
+    },
+    "applicationRevision": 0,
+    "locked": false,
+    "comments": {
+        "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Collections.Generic.List`1[[Core.Models.Record.Comments, Core]], System.Private.CoreLib]], System.Private.CoreLib"
+    },
+    "createdDate": "2022-04-26T02:04:11.2120501Z",
+    "modifiedDate": "0001-01-01T00:00:00",
+    "sessionTimeSpent": 41,
+    "totalTimeSpent": 41,
+    "timeTrackingEnabled": true,
+    "isHangfireCreatedAndUnpersisted": false,
+    "infiniteLoopFlag": false,
+    "id": "aoBchbnptBImv2Ff",
+    "disabled": false,
+    "readOnly": false,
+    "coeditSession": {
+        "editors": [
+            {
+                "id": "aBwbtVSWgtVqMYkoo",
+                "name": "Ashraf Hussain"
+            }
+        ],
+        "values": {},
+        "fields": {}
+    }
+}
